@@ -12,4 +12,7 @@ I prefer to write **back-end** code, but I can do front-end if needed.
 - 📫 How to reach me: **subhaminion** is my default username for all social media
 - ⚡ Fun fact: When not firefighting at work, I love a cup of Ginger Tea on a rainy evening, and anything that involves jumping off from ridiculous heights (think airplanes and cliffs).
 
-![GithubStats](https://github-readme-stats.vercel.app/api?username=subhaminion&show_icons=true&hide=contribs&cache_seconds=86400&theme=vue&icon_color=0d60b3&title_color=0d60b3)
+
+<a href="https://github.com/subhaminion/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=subhaminion&show_icons=true&hide=contribs&cache_seconds=86400&theme=vue&icon_color=5a9ae1&title_color=5a9ae1" />
+</a>
