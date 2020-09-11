@@ -14,5 +14,5 @@ I prefer to write **back-end** code, but I can do front-end if needed.
 
 
 <a href="https://github.com/subhaminion/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=subhaminion&show_icons=true&hide=contribs&cache_seconds=86400&theme=vue&icon_color=5a9ae1&title_color=5a9ae1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=subhaminion&show_icons=true&hide=contribs,stars&cache_seconds=86400&theme=vue&icon_color=5a9ae1&title_color=5a9ae1" />
 </a>
