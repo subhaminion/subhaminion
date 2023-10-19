@@ -4,7 +4,7 @@
 -->
 ### Hi there 👋
 
-#### My name is **Subham Bhattacharjee 🚀**. I'm a 28-year-old, full-stack software engineer. Passionate about helping organisations solve their large-scale, distributed technical problems.
+#### My name is **Subham Bhattacharjee 🚀**. A full-stack software engineer. Passionate about helping organisations solve their large-scale, distributed technical problems.
 
 **Python, JavaScript, ReactJS** a bit of this and a bit of that, but language agnostic in general.
 
